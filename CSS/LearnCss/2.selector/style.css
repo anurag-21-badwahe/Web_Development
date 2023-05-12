@@ -1,0 +1,19 @@
+body{
+    font-family: cursive;
+}
+#First{
+    color:red;
+}
+#second{
+    color: blueviolet;
+}
+#third{
+  color: rgb(87, 30, 210);
+}
+h1{
+    background-color:bisque;
+}
+.highlight{
+    background-color:burlywood;
+    font-style: italic;
+}

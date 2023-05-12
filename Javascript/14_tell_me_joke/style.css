@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-image:url(https://t3.ftcdn.net/jpg/02/86/18/20/240_F_286182066_yY72dajL2Vv9pYZ0LWiDiYZrMEStz0Fo.jpg);
+    background-size: 100%;
+    background-repeat:no-repeat   
+}
+
+#joke{
+    text-align: center;
+    display: flex;
+    justify-content: center; 
+    margin-top: 10rem;
+    font-weight: 700;
+}
+#btn{
+   text-align: center;
+   display: flex;
+   margin: auto;
+   margin-top: 10px;
+   
+}
+
+@media screen and ( max-width:1200px ){
+    body{
+background-image: url(https://media.istockphoto.com/id/1387439470/photo/3d-face-with-tears-of-joy-emoji-character-with-arms-and-legs.jpg?b=1&s=170667a&w=0&k=20&c=H1dw6JvfB78t2UqOFMJL5kvhZvhQj9hSmtIELR1uDKg=);
+background-repeat: repeat;
+    }
+    
+} 

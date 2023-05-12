@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(23, 151, 151);
+}
+
+@media(width <= 400px){
+    body{
+        background-color: burlywood;
+    }
+}
+
+@media (width <= 200px){
+    body{
+        background-color: gold;
+    }
+}
